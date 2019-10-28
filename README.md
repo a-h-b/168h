@@ -20,7 +20,7 @@ Wichtige Werkzeuge, die die Bioinformatik der Biologie geschenkt hat, sind Daten
 Ein BLAST-Programm können wir auf jedem Computer installieren. Da wir aber nicht die gesamte Datenbank auf unserem Computer haben möchten, benutzen wir ein Online-Programm, das auf eine große, international etablierte Datenbank zugreift:
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
-Auf dieser Seite (!!!) findet ihr Sequenzen. Lasst BLAST die Sequenzen suchen. 
+Auf dieser Seite (siehe Ordner Gruppe_x oben) findet ihr Sequenzen. Lasst BLAST die Sequenzen suchen. 
 
 Kopiert die Namen aus den Ergebnissen und schaut euch die Organismen in Onezoom.org/life.html an (Suchfunktion oben rechts).
 
